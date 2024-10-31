@@ -1,6 +1,8 @@
-# Nora Loose's website
+# Rishad's Website
 
 ## Credits
+
+This website is originally forked from [Nora Loose's website](https://noraloose.github.io/) 
 
 Credits to the original creator of the website template [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) and to the creator of [Academicons](http://jpswalsh.github.io/academicons/). Thanks!
 
