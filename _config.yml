@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tanvir Hossain (Rishad)"
+  name             : "Tanvir Hossain"
   avatar           : "/assets/images/Rishad_front_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Prospective Robotics PhD student"
   location         : "Dhaka, Bangladesh"
