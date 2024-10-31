@@ -9,11 +9,11 @@ minimal_mistakes_skin    : "dark" # "default", "air", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Nora Loose"
+title                    : "Tanvir Hossain"
 title_separator          : "-"
-name                     : "Nora Loose"
-description              : "Nora Loose's personal website"
-url                      : "https://noraloose.github.io" # should not end with /
+name                     : "Tanvir Hossain"
+description              : "Tanvir Hossain's personal website"
+url                      : "https://th-rishad.github.io/" # should not end with /
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "NoraLoose"
+  username               : ""
 facebook:
   username               :
   app_id                 :
@@ -79,11 +79,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nora Loose"
-  avatar           : "/assets/images/avatar2.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Machine Learning, Physical & computational oceanography, Mesoscale eddy parameterizations, Scientific software development, Uncertainty quantification, Data assimilation, Adjoint modeling, Ocean observing system design"
-  location         : "Boulder, Colorado"
-  email            : "nora@cworthy.org"
+  name             : "Tanvir Hossain (Rishad)"
+  avatar           : "/assets/images/Rishad_side_view.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Locomotion, Manipulation, Design, Vibration"
+  location         : "Dhaka, Bangladesh"
+  email            : "tanvirrishad5065@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "NoraLoose"
+  github           : "TH-Rishad"
   gitlab           :
   google_plus      :
   keybase          :
@@ -103,12 +103,12 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "NoraLoose"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  orcid            : "0000-0002-3684-9634"
+  orcid            : ""
 
 
 # Reading Files
