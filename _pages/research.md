@@ -27,10 +27,6 @@ Some of the research I've done in my undergrad:
 
 The study bases its simulation on established one-way Fluid-Structure Interaction (FSI) methodology. The goals were to obtain a consistent vibration signal in the form of acceleration, investigate the possible locations for placing the clamp, and investigate how much the vibration frequency fluctuates after clamping. The study uses ANSYS Computational Fluid Dynamics (CFD) and Finite Element Analysis (FEA) to create a bridge between the pressure and velocity obtained from fluid flow and the vibration on the pipe body. Three different mass flow rates of 180, 200, and 200 kg/s were used to simulate the variable real-life flow rate, and the vibration was considered for each case. Furthermore, 15 locations were selected to check the feasibility of clamp placement. The total accelerations and deformations were tested for each of the positions. 
 
-Related publications: [Loose et al.](https://doi.org/10.1175/JPO-D-22-0083.1), JPO (2022);
-[Loose et al.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003518), JAMES (2023);
-[Marques, Loose et al.](https://gmd.copernicus.org/articles/15/6567/2022/), GMD (2022). 
-
 ## Non-linear vibration testing for sandwich composite structure
 
 <figure>
