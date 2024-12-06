@@ -20,7 +20,7 @@ Some of the research I've done in my undergrad:
 ## Investigation for clamp numbers on bent pipe for FIV reduction
 
 <figure>
-  <img src="/assets/images/Thesis_pic.jpg" width="1000px" alt="">
+  <img src="/assets/images/Thesis_new.jpg" width="1000px" alt="">
   <figcaption>Methodology for FIV reduction in 90 degree pipe by clamps for different mass flow rates.
 </figcaption>
 </figure>
@@ -40,7 +40,7 @@ A simulink model comprised of 3DOF spring mass damper system was used to check t
 ## Optimization of Supercritical CO2 Brayton cycle with ejector and VAR refrigeration
 
 <figure>
-  <img src="/assets/images/CO2Brayton.png" alt="">
+  <img src="/assets/images/Ejector.jpg" alt="">
   <figcaption> Schematic of cascaded Supercritical CO2 recompression Brayton cycle with transcritical CO2 ejector refrigeration cycle and flash tank enhance vapor absorption refrigeration cycle.  
 </figcaption>
 </figure>
