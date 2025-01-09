@@ -22,7 +22,7 @@ Some of My Hobbies Include
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
   <figure style="margin: 0; text-align: center;">
-    <img src="/assets/images/Violin/Violin1.jpg" alt="" style="height: 500px; width: auto;">
+    <img src="/assets/images/Violin/Violin1.jpg" alt="" style="height: 500px; width: 400px;">
   </figure>
   <figure style="margin: 0; text-align: center;">
     <img src="/assets/images/Violin/Violin2.jpg" alt="" style="width: 55%;">
@@ -56,7 +56,7 @@ Some of My Hobbies Include
 <!-- Second picture with subheader -->
 <section style="text-align: center;">
   <h3>LEGO Lamborghini</h3>
-  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 100px;">
+  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 50px;">
     <figure style="margin: 0;">
       <img src="/assets/images/LEGO/Lambo.jpg" alt="" style="height: 500px; width: auto;">
     </figure>
@@ -95,7 +95,7 @@ Some of My Hobbies Include
 
 ## Sketching
 <section style="text-align: center;">
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center;">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 5px; justify-items: center;">
     <figure style="margin: 0;">
       <img src="/assets/images/Sktech/Anthrax.jpg" alt="" style="height: 350px; width: auto;">
     </figure>
