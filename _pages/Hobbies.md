@@ -19,18 +19,13 @@ Some of My Hobbies Include
 
 
 ## Playing Violin
+<figure style="text-align: center; margin-bottom: 10px;">
+  <img src="/assets/images/Violin/Violin1.jpg" alt="" style="height: 500px; width: 400px;">
+</figure>
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
-  <figure style="margin: 0; text-align: center;">
-    <img src="/assets/images/Violin/Violin1.jpg" alt="" style="height: 500px; width: 400px;">
-  </figure>
-  <figure style="margin: 0; text-align: center;">
-    <img src="/assets/images/Violin/Violin2.jpg" alt="" style="width: 55%;">
-  </figure>
-</div>
-
-
-
+<figure style="text-align: center; margin-bottom: 10px;">
+  <img src="/assets/images/Violin/Violin2.jpg" alt="" style="width: 55%;">
+</figure>
 
 
 ## Collecting LEGO sets
