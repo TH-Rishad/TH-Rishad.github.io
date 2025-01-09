@@ -20,7 +20,7 @@ Some of My Hobbies Include
 
 ## Playing Violin
 <figure style="text-align: center; margin-bottom: 10px;">
-  <img src="/assets/images/Violin/Violin1.jpg" alt="" style="height: 500px; width: 500px;">
+  <img src="/assets/images/Violin/Violin1.jpg" alt="" style="height: 500px; width: 400px;">
 </figure>
 
 <figure style="text-align: center; margin-bottom: 10px;">
@@ -117,7 +117,7 @@ Some of My Hobbies Include
       <img src="/assets/images/Sktech/Tintin.jpg" alt="" style="height: 350px; width: auto;">
     </figure>
     <figure style="margin: 0;">
-      <img src="/assets/images/Sktech/Laili.jpg" alt="" style="height: 500px; width: auto;">
+      <img src="/assets/images/Sktech/Laili.jpg" alt="" style="height: 400px; width: auto;">
     </figure>
   </div>
 
@@ -133,10 +133,10 @@ Some of My Hobbies Include
       <img src="/assets/images/Sktech/GOW.jpg" alt="" style="height: 420px; width: auto;">
     </figure>
     <figure style="margin: 0;">
-      <img src="/assets/images/Sktech/Monroe.jpg" alt="" style="height: 500px; width: auto;">
+      <img src="/assets/images/Sktech/Monroe.jpg" alt="" style="height: 420px; width: auto;">
     </figure>
     <figure style="margin: 0;">
-      <img src="/assets/images/Sktech/Salvator Dali.jpg" alt="" style="height: 500px; width: auto;">
+      <img src="/assets/images/Sktech/Salvator Dali.jpg" alt="" style="height: 420px; width: auto;">
     </figure>
   </div>
 </section>
