@@ -20,7 +20,7 @@ Some of My Hobbies Include
 
 ## Playing Violin
 <figure style="text-align: center; margin-bottom: 10px;">
-  <img src="/assets/images/Violin/Violin1.jpg" alt="" style="height: 500px; width: 400px;">
+  <img src="/assets/images/Violin/Violin1.jpg" alt="" style="height: 500px; width: 500px;">
 </figure>
 
 <figure style="text-align: center; margin-bottom: 10px;">
@@ -90,6 +90,7 @@ Some of My Hobbies Include
 
 ## Sketching
 <section style="text-align: center;">
+  <!-- First group (two pictures per row) -->
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 5px; justify-items: center;">
     <figure style="margin: 0;">
       <img src="/assets/images/Sktech/Anthrax.jpg" alt="" style="height: 350px; width: auto;">
@@ -104,6 +105,25 @@ Some of My Hobbies Include
       <img src="/assets/images/Sktech/Crop.jpg" alt="" style="height: 350px; width: auto;">
     </figure>
     <figure style="margin: 0;">
+      <img src="/assets/images/Sktech/Mountain.jpg" alt="" style="height: 350px; width: auto;">
+    </figure>
+    <figure style="margin: 0;">
+      <img src="/assets/images/Sktech/Jaw.jpg" alt="" style="height: 350px; width: auto;">
+    </figure>
+    <figure style="margin: 0;">
+      <img src="/assets/images/Sktech/Joker.jpg" alt="" style="height: 350px; width: auto;">
+    </figure>
+    <figure style="margin: 0;">
+      <img src="/assets/images/Sktech/Tintin.jpg" alt="" style="height: 350px; width: auto;">
+    </figure>
+    <figure style="margin: 0;">
+      <img src="/assets/images/Sktech/Laili.jpg" alt="" style="height: 500px; width: auto;">
+    </figure>
+  </div>
+
+  <!-- Second group (three pictures per row) -->
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px; justify-items: center; margin-top: 20px;">
+    <figure style="margin: 0;">
       <img src="/assets/images/Sktech/Einstein.jpg" alt="" style="height: 420px; width: auto;">
     </figure>
     <figure style="margin: 0;">
@@ -113,28 +133,14 @@ Some of My Hobbies Include
       <img src="/assets/images/Sktech/GOW.jpg" alt="" style="height: 420px; width: auto;">
     </figure>
     <figure style="margin: 0;">
-      <img src="/assets/images/Sktech/Jaw.jpg" alt="" style="height: 350px; width: auto;">
-    </figure>
-    <figure style="margin: 0;">
-      <img src="/assets/images/Sktech/Mountain.jpg" alt="" style="height: 350px; width: auto;">
-    </figure>
-    <figure style="margin: 0;">
-      <img src="/assets/images/Sktech/Joker.jpg" alt="" style="height: 350px; width: auto;">
-    </figure>
-    <figure style="margin: 0;">
-      <img src="/assets/images/Sktech/Tintin.jpg" alt="" style="height: 350px; width: auto;">
-    </figure>
-    <figure style="margin: 0;">
       <img src="/assets/images/Sktech/Monroe.jpg" alt="" style="height: 500px; width: auto;">
     </figure>
     <figure style="margin: 0;">
       <img src="/assets/images/Sktech/Salvator Dali.jpg" alt="" style="height: 500px; width: auto;">
     </figure>
-    <figure style="margin: 0;">
-      <img src="/assets/images/Sktech/Laili.jpg" alt="" style="height: 500px; width: auto;">
-    </figure>
   </div>
 </section>
+
 
 
 
