@@ -7,10 +7,9 @@ author_profile: true
 ---
 
 
-## Journal (In Preparation)
-
-| <a href="/assets/images/Thesis_new.jpg"><img src="/assets/images/Thesis_new.jpg" width="600px" alt=""> | Ahmad, H., **Hossain, T.**, Ahmed, A. and Hossain, Z. . Investigation of Clamp Numbers and Positions to Mitigate Flow-Induced Vibration in High-Speed Superheated Steam Flow Through a Pipe Elbow. _in_preparation_|
-
-| <a href="/assets/images/Ejector.jpg"><img src="/assets/images/Ejector.jpg" width="600px" alt=""> | Khan, T. E., Sakib, S.H., Sakib, Nazmus., **Hossain, T.**, and Ehsan, M. M. . Thermal Analysis and Multi-objective Optimization of Supercritical CO2 Brayton Cycle Cascaded with Ejector Enhanced Transcritical CO2 Refrigeration Cycle and Flash Tank Enhanced Compression-absorption Refrigeration Cycle. _in_preparation_|
+## Journal 
+- T.E.Khan, S.H.Sakib, N.Sakib,**T.Hossain**, and M.M.Ehsan, "Multi-Objective Optimization of a Cascaded sCO2 Brayton Cycle with Ejector-Enhanced Transcritical CO2 and Flash Tank Absorption Refrigeration Cycles," _Energy Convention and Management: X_.(Under Review)
 
 
+## International Conference
+- H.Ahmad, **T.Hossain**, A.Ahmed, C.S.Alam, A.Abuhatira, and Z.Hossain, "Investigation of Clamp Numbers and Positions to Mitigate Flow-Induced Vibration in High-Speed Superheated Steam Flow Through a Pipe Elbow," _International Mechanical Enginering and Congress Exhibition 2025_.(Abstract Submitted)|
