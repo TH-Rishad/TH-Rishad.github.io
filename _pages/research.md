@@ -45,7 +45,7 @@ A simulink model comprised of 3DOF spring mass damper system was used to check t
 </figcaption>
 </figure>
 
-Here will add some text
+The research goal was to combine power generation and cooling system by combining FCAR system, ETCR system and sCO2 Brayton cycle. The thermal performance was evaluated using Python where Multi-Objective Optimization was used to select ideal operational parameters. 
 
 
 
