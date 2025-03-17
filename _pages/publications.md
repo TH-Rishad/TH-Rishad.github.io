@@ -12,4 +12,4 @@ author_profile: true
 
 
 ## International Conference
-- H.Ahmad, **T.Hossain**, A.Ahmed, C.S.Alam, A.Abuhatira, and Z.Hossain, "Investigation of Clamp Numbers and Positions to Mitigate Flow-Induced Vibration in High-Speed Superheated Steam Flow Through a Pipe Elbow," _International Mechanical Enginering and Congress Exhibition 2025_.(Abstract Submitted)|
+- H.Ahmad, **T.Hossain**, A.Ahmed, C.S.Alam, A.Abuhatira, and Z.Hossain, "Investigation of Clamp Numbers and Positions to Mitigate Flow-Induced Vibration in High-Speed Superheated Steam Flow Through a Pipe Elbow," _International Mechanical Enginering and Congress Exhibition 2025_.(Abstract Submitted)
