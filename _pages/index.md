@@ -19,4 +19,4 @@ Oh, and I love LEGOs
 
 # Research Interest
 
-Legged locomotion, Multi-robots, Aerial Manipulation, Human-Computer Interaction
+Legged locomotion, Deep-Reinforcement Learning, Robot Design
