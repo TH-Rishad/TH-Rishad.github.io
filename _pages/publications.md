@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## Journal 
-- T.E.Khan, S.H.Sakib, N.Sakib,**T.Hossain**, and M.M.Ehsan, "Multi-Objective Optimization of a Cascaded sCO2 Brayton Cycle with Ejector-Enhanced Transcritical CO2 and Flash Tank Absorption Refrigeration Cycles," _Energy Convention and Management: X_.doi: [10.1016/j.ecmx.2025.100988](https://doi.org/10.1016/j.ecmx.2025.100988).|
+- T.E.Khan, S.H.Sakib, N.Sakib,**T.Hossain**, M.M.Ehsan, and Y. Khan, "Multi-Objective Optimization of a Cascaded sCO2 Brayton Cycle with Ejector-Enhanced Transcritical CO2 and Flash Tank Absorption Refrigeration Cycles," _Energy Convention and Management: X_. doi: [10.1016/j.ecmx.2025.100988](https://doi.org/10.1016/j.ecmx.2025.100988)
 
 
 ## International Conference
