@@ -22,6 +22,7 @@ My research interest is primarily in Deep-Reinforcement Learning focusing on dyn
 
 
 # Skills
+---
 **Design and Simulation**: SOLIDWORKS, Fusion 360, ANSYS Fluent  
 **Programming**: ROS, Python, Arduino, Julia, OpenAI Gym  
 **Control and Automation**: MATLAB, LABVIEW, Ardupilot Mission Planner  
