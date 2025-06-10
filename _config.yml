@@ -69,6 +69,10 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://scholar.google.com/citations?user=ndkAVn0AAAAJ&hl=en"
+    - "https://www.researchgate.net/profile/Tanvir-Hossain-63?ev=hdr_xprf"
+    - "https://orcid.org/0009-0007-6583-2974"
+    - "https://www.linkedin.com/in/tanvir-hossain-aabb781aa"
 
 # Analytics
 analytics:
@@ -81,7 +85,7 @@ analytics:
 author:
   name             : "Tanvir Hossain"
   avatar           : "/assets/images/Rishad_front_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Prospective Robotics PhD student"
+  bio              : "Adjunct Lecturer of Mechanical Engineering @MIST | Prospective Robotics PhD student | Interested in Reinforcement Learning for Locomotion"
   location         : "Dhaka, Bangladesh"
   email            : "tanvirrishad5065@gmail.com"
   uri              :
@@ -108,7 +112,7 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  orcid            : #""
+  orcid            : "https://orcid.org/0009-0007-6583-2974"
 
 
 # Reading Files
