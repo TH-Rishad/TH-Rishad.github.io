@@ -21,7 +21,7 @@ Some of the research I've done in my undergrad:
 ## Investigation for clamp numbers on bent pipe for FIV reduction
 
 <figure>
-  <img src="/assets/images/Pipe and Clamp Structure Geometry W.O 2Clamp, L.png" width="1000px" alt="">
+  <img src="/assets/images/Pipe pic.png" width="1000px" alt="">
   <figcaption>Pipe and clamp structure geometry for 90 degree bent section for high speed superheated steam flow.
 </figcaption>
 </figure>
