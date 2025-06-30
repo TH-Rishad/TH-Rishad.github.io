@@ -29,3 +29,20 @@ My research interest is primarily in Deep-Reinforcement Learning focusing on dyn
 **Programming**: ROS, Python, Arduino, Julia, OpenAI Gym  
 **Control and Automation**: MATLAB, LABVIEW, Ardupilot Mission Planner  
 **AI**: Reinforcement Learning
+
+
+# Latest News
+---
+<ul>
+  {% assign recent_news = site.news | sort: 'date' | reverse %}
+  {% for item in recent_news limit: 3 %}
+    <li style="margin-bottom: 1.5rem;">
+      <time datetime="{{ item.date | date_to_xmlschema }}" style="font-weight: bold; color: #666;">
+        {{ item.date | date: "%B %-d, %Y" }}
+      </time>
+      <p style="margin: 0.3rem 0 0;">
+        {{ item.content | markdownify }}
+      </p>
+    </li>
+  {% endfor %}
+</ul>
