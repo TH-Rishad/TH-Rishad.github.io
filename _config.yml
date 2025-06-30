@@ -74,7 +74,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links:
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar
+      icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=ndkAVn0AAAAJ&hl=en"
     - label: "ResearchGate"
       icon: "ai ai-researchgate"
