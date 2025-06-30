@@ -251,6 +251,23 @@
         </li>
       {% endif %}
 
+      {% if author.google_scholar %}
+        <li>
+          <a href="{{ author.google_scholar }}" itemprop="sameAs">
+            <i class="ai ai-google-scholar ai-fw" aria-hidden="true"></i> Google Scholar
+          </a>
+        </li>
+      {% endif %}
+      
+      {% if author.researchgate %}
+        <li>
+          <a href="{{ author.researchgate }}" itemprop="sameAs">
+            <i class="ai ai-researchgate ai-fw" aria-hidden="true"></i> ResearchGate
+          </a>
+        </li>
+      {% endif %}
+
+
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
