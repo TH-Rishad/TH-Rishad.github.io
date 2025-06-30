@@ -1,3 +1,25 @@
 <!-- start custom footer snippets -->
+<script>
+  function getQueryParam(param) {
+    return new URLSearchParams(window.location.search).get(param);
+  }
+
+  if (getQueryParam("dev") === "true") {
+    const btn = document.createElement("button");
+    btn.textContent = "Toggle GA Tracking";
+    btn.style.cssText = "position:fixed;bottom:10px;right:10px;z-index:1000;padding:10px;";
+    btn.onclick = function () {
+      const hasOptOut = document.cookie.indexOf('ga-opt-out=true') !== -1;
+      if (hasOptOut) {
+        document.cookie = "ga-opt-out=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+        alert("Google Analytics tracking ENABLED for this browser.");
+      } else {
+        document.cookie = "ga-opt-out=true; path=/; max-age=31536000";
+        alert("Google Analytics tracking DISABLED for this browser.");
+      }
+    };
+    document.body.appendChild(btn);
+  }
+</script>
 
 <!-- end custom footer snippets -->
