@@ -13,6 +13,10 @@ title                    : "Tanvir Hossain"
 title_separator          : "-"
 name                     : "Tanvir Hossain"
 description              : "Tanvir Hossain's personal website"
+collections:
+  news:
+    output: true
+    permalink: /news/:name/
 url                      : "https://th-rishad.github.io/" # should not end with /
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
