@@ -73,10 +73,18 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links:
-    - "https://scholar.google.com/citations?user=ndkAVn0AAAAJ&hl=en"
-    - "https://www.researchgate.net/profile/Tanvir-Hossain-63?ev=hdr_xprf"
-    - "https://orcid.org/0009-0007-6583-2974"
-    - "https://www.linkedin.com/in/tanvir-hossain-aabb781aa"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar
+      url: "https://scholar.google.com/citations?user=ndkAVn0AAAAJ&hl=en"
+    - label: "ResearchGate"
+      icon: "ai ai-researchgate"
+      url: "https://www.researchgate.net/profile/Tanvir-Hossain-63?ev=hdr_xprf"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0009-0007-6583-2974"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/tanvir-hossain-aabb781aa"
 
 # Analytics
 analytics:
