@@ -18,8 +18,13 @@ Apart from the academics and research, I enjoy playing violin and building LEGO 
 
 # Research Interest
 ---
-My research interest is primarily in Deep-Reinforcement Learning focusing on dynamic robot locomotion, i.e. Humanoid,Quadruped. I am currently learning Reinforcement Learning on OpenAI Gym with the goal of developing a wheeled biped (wheg) to achieve running jump without transitioning into a stance mode.  
-**N:B:** 🚨 _**I am actively seeking funded research positions for learning-based robot control, preferably, but not limited to legged robots.**_
+<ul>
+  <li>Model/Learning Based Control for Legged loco-manipulation: biped, quadruped, humanoids</li>
+  <li>Robot Manipulation based on Tactile Sensing and Reinforcement Learning</li>
+  <li>Fluid-Solid Interaction for Soft Robots</li>
+  <li>Deep Reinforcement Learning based Flow Induced Vibration</li>
+</ul>
+**N:B:** 🚨 _**I am actively seeking funded research positions for Masters/PhD.**_
 
 
 
