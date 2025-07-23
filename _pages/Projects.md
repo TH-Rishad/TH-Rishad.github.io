@@ -14,6 +14,7 @@ Some of the projects that I've worked on
 - Chassis of Project Altair Mars Rover - Musafir
 - Electric Box of Project Altair Mars Rover
 - 4 DOF Robotic Arm for Picking and Sorting Objects
+- Autonomous Navigation of Y3 and VTOL - Team ANTS
 
 
 
@@ -46,3 +47,15 @@ The electric box is made out of bolting together 12mm thick plywood sheets. The 
 </figure>
 
 The system utilizes a camera for color recognition of the object. The color parameters then gets passed to the Arduino Uno microcontroller power by a laptop. The arm then performs a series of motion based on a set of fixed position arrays and places it into the correct position.
+
+## Autonomous Navigation of Y3 and VTOL - Team ANTS
+
+<figure>
+  <video width="100%" controls>
+    <source src="/assets/videos/Y3 Video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>Vertical Takeoff and Landing of tilt-rotor tricopter Y3</figcaption>
+</figure>
+
+I performed the autonomous flight testing of a tilt rotor Y3 tricopter prototype. The autonomous flight included navigation across all waypoints, aid delivery and identification of ground markers. The final UAV was a fixed-wing VTOL Bijoy-16 designed by the late CTO Jahiduzzaman Tanvin for IMechE UAS Challenge 2021, for which the team won the best design award. 
