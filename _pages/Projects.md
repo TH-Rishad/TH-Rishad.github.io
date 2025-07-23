@@ -52,7 +52,7 @@ The system utilizes a camera for color recognition of the object. The color para
 
 <figure>
   <video width="100%" controls>
-    <source src="/assets/videos/Y3 Video.mp4" type="video/mp4">
+    <source src="/assets/images/Y3 Video.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <figcaption>Vertical Takeoff and Landing of tilt-rotor tricopter Y3</figcaption>
