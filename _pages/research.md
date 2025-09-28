@@ -5,20 +5,21 @@ sitemap: true
 permalink: /research/
 author_profile: true
 toc: true
-toc_label: "Research"
-toc_icon: "gear"
+toc_label: "Research Sections"
+toc_icon: "microscope"
 toc_sticky: true
 ---
 
-Some of the research I've done in my undergrad:
-- Investigation for clamp numbers on bent pipe for FIV reduction
-- Optimization of Supercritical CO2 Brayton cycle with ejector and VCAR refrigeration
-- Non-linear vibration testing for sandwich composite structure
+## Ongoing Research
+### RL integrated diffusion model for Generative AI (Title yet to be finalized)
+Reinforcement Learning can assign rewards in Diffusion Model to generate texts or images that needs some desired metrics. Although, this research is in its earlier stage, the goal is to experiment integrating RL algorithms on various pre-trained diffusion models to compare which models works best when it comes to image generation.
 
 
+### Hierarchical RL for quadruped locomotion control with Dual Curriculum Design based environment generation
+Testing Implementing Dual-Curriculum Design algorithms to train a quadruped robot having Teacher-Student based RL controller on a gradually challenging environment and swiftly switch gaits according to different terrains. I also intend to use LLM to generate diverse terrains
 
-
-## Investigation for clamp numbers on bent pipe for FIV reduction
+## Past Research
+### Investigation for clamp numbers on bent pipe for FIV reduction
 
 <figure>
   <img src="/assets/images/Pipe pic.png" width="1000px" alt="">
@@ -30,7 +31,7 @@ Turbulent flows can often affect the structural integrities of pipe while experi
 
 **Contribution:** I proposed the methodology for adding clamps at equal spacing for reduced total acceleration and displacement and using three different mass flow rates for increased effieciency. I analysed the total acceleration and deformation of the transient structural by extracting these time-domain data from ANSYS. I imported these to a Python code I wrote by myself to convert time domain data to frequency domain using Fast Fourier Transform Algorithm (FFT). 
 
-## Optimization of Supercritical CO2 Brayton cycle with ejector and VCAR refrigeration
+### Optimization of Supercritical CO2 Brayton cycle with ejector and VCAR refrigeration
 
 <figure>
   <img src="/assets/images/SCO2 cycle.jpg" alt="">
@@ -42,7 +43,7 @@ Recompression Brayton Cycle using Supercritical CO2 although highly efficient fo
 
 **Contribution:** I reviewed the literatures on the Ejector-assisted transcritical CO2 refrigeration cycle and proposed a solution on how to integrate the cooling load. I performed the model validation of the old and proposed model using CoolProp Library and for the parametric analysis, I did the exergy analysis to measure the efficiency increase. Additionally, all the visuals for cycle schematics and P-h diagrams are made by me. 
 
-## Non-linear vibration testing for sandwich composite structure
+### Non-linear vibration testing for sandwich composite structure
 
 <figure>
   <img src="/assets/images/sandwich.jpg" alt="">
