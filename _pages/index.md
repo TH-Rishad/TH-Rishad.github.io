@@ -11,7 +11,13 @@ author_profile: true
 
 # Biography
 ---
-I am currently a **Junior Lecturer** of the Mechanical and Production Engineering (MPE) department of [Islamic University of Technology (IUT)](https://iutoic-dhaka.edu/), Bangladesh since November 24, 2025. Previously I was an **adjunct lecturer** of Mechanical Engineering at the [Military Institute of Science and Technology (MIST)](https://mist.ac.bd/), Bangladesh since June 01, 2025. I completed my Bachelor of science In Mechanical Engineering from the [Islamic University of Technology (IUT)](https://www.iutoic-dhaka.edu/). For my undergraduate thesis, I worked under the supervision of [Dr. Md. Zahid Hossain](https://mpe.iutoic-dhaka.edu/profile/zahid/education) on Fluid-Structure Interaction based vibration control. I also collaborated on cascaded Brayton Cycle optimization research under [Dr. Mohammad Monjurul Ehsan](https://mpe.iutoic-dhaka.edu/profile/ehsan/education). As for robotics projects, I served as executive of autonomous system for autonomous flight and relief delivery of a VTOL system for [***ANTS***](https://www.linkedin.com/company/bewithants/posts/?feedView=all), for the [IMechE UAS Challenge-2021](https://www.imeche.org/events/challenges/uas-challenge). I also led the chassis design subteam of [***Project-Altair***](https://www.altairrover.com/) for the [European Rover Challenge](https://roverchallenge.eu/)-2023, Poland. 
+I am a **PhD in Mechanical Engineering** student at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), researching Robotic Manipulation in Space under [Dr. GAO, Yang](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yang-gao-yanggao).
+
+Previously I was a **Junior Lecturer** of the Mechanical and Production Engineering (MPE) department of [Islamic University of Technology (IUT)](https://iutoic-dhaka.edu/), Bangladesh. Before that I was an **adjunct lecturer** of Mechanical Engineering at the [Military Institute of Science and Technology (MIST)](https://mist.ac.bd/), Bangladesh. 
+
+I completed my Bachelor of science In Mechanical Engineering from the [Islamic University of Technology (IUT)](https://www.iutoic-dhaka.edu/). For my undergraduate thesis, I worked under the supervision of [Dr. Md. Zahid Hossain](https://mpe.iutoic-dhaka.edu/profile/zahid/education) on Fluid-Structure Interaction based vibration control. I also collaborated on cascaded Brayton Cycle optimization research under [Dr. Mohammad Monjurul Ehsan](https://mpe.iutoic-dhaka.edu/profile/ehsan/education). 
+
+My previous robotics projects span, autonomous flight and relief delivery of a VTOL system for [***ANTS***](https://www.linkedin.com/company/bewithants/posts/?feedView=all), for the [IMechE UAS Challenge-2021](https://www.imeche.org/events/challenges/uas-challenge), and also leading the chassis design subteam of [***Project-Altair***](https://www.altairrover.com/) for the [European Rover Challenge](https://roverchallenge.eu/)-2023, Poland. 
 
 Apart from the academics and research, I enjoy playing violin and building LEGO sets.
 
@@ -19,12 +25,11 @@ Apart from the academics and research, I enjoy playing violin and building LEGO 
 # Research Interest
 ---
 <ul>
-  <li>Model/Learning Based Control for Legged loco-manipulation: biped, quadruped, humanoids</li>
-  <li>Robot Manipulation based on Tactile Sensing and Reinforcement Learning</li>
-  <li>Fluid-Solid Interaction for Soft Robots</li>
-  <li>Deep Reinforcement Learning based Flow Induced Vibration</li>
+  <li>Model/Learning Based Control for Dexterous Manipulation</li>
+  <li>RTactile Sensing and Reinforcement Learning</li>
+  <li>Grasp Planning in Microgravitys</li>
 </ul>
-**N:B:** 🚨 _**I am actively seeking funded research positions for Masters/PhD.**_
+
 
 
 
